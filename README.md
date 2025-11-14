@@ -77,7 +77,7 @@ python SimpleNSR_GPUS_mixedColor_Pytorch.py \
     --datapath /data/zhoujw/DTN \
     --device '0,1,2,3' \
     --batch-size 16
-
+```
 
 
 ## 参考资源
